@@ -1,0 +1,15 @@
+#(@) kbokis/hello-world
+Yet an other place for solutions of various algorithmic nature practice problems from 
+various sources:
+  hackerrank.com
+  spoj.com
+  codeforces.com
+  usaco.org
+  hellenico.gr
+  
+The initial intension for this project was to store some of my solutions and maybe help beginner or intermediate 
+level contestants that are stuck on some of these problems.  
+
+Not all solutions have detailed documentation.
+There is no guaranty for the 100% validity of code or that no more optimization is required.
+
